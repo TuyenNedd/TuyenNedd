@@ -53,7 +53,7 @@
   </a>
   <br/>
   <a href="#" title="TuyenNedd">
-    <img align="center" "width=495" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuyenNedd&langs_count=8&layout=compact&bg_color=1a1b27&hide_border=true&text_color=38bcad" />
+    <img align="center" width="495" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuyenNedd&langs_count=8&layout=compact&bg_color=1a1b27&hide_border=true&text_color=38bcad" />
   </a> 
   <br/>
   <a href="#" title="TuyenNedd">
