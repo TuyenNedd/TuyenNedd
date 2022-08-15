@@ -53,6 +53,10 @@
   </a>
   <a href="#" title="TuyenNedd">
     <img align="center" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuyenNedd&langs_count=8&layout=compact&bg_color=1a1b27&hide_border=true&text_color=38bcad&exclude_repo=Admin_Dashboard,TuyenNedd.github.io" />
+  </a> 
+  <br/>
+  <a href="#" title="TuyenNedd">
+    <img align="center" width="400" src="https://github-streak-stats.herokuapp.com/?user=rishavchanda&&theme=tokyonight" alt="rishavchanda"&langs_count=8&layout=compact&bg_color=1a1b27&hide_border=true&text_color=38bcad&exclude_repo=Admin_Dashboard,TuyenNedd.github.io" />
   </a>
 </div>
 
