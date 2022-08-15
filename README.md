@@ -60,3 +60,4 @@
   </a>
 </div><br/>
 ![snake gif](https://github.com/TuyenNedd/TuyenNedd/blob/output/github-contribution-grid-snake.gif)
+<img align="center" src="https://github.com/TuyenNedd/TuyenNedd/blob/output/github-contribution-grid-snake.gif" alt="TuyenNedd" />
