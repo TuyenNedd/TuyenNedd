@@ -59,5 +59,5 @@
     <img align="center" width="400" src="https://github-streak-stats.herokuapp.com/?user=TuyenNedd&&theme=tokyonight&langs_count=8&layout=compact&bg_color=1a1b27&hide_border=true&text_color=38bcad" alt="TuyenNedd" />
   </a>
 </div><br/>
-![snake gif](https://github.com/TuyenNedd/TuyenNedd/blob/output/github-contribution-grid-snake.gif)
-<img align="center" src="https://github.com/TuyenNedd/TuyenNedd/blob/output/github-contribution-grid-snake.gif" alt="TuyenNedd" />
+![snake gif](https://github.com/TuyenNedd/TuyenNedd/blob/output/github-contribution-grid-snake.svg)
+<img align="center" src="https://github.com/TuyenNedd/TuyenNedd/blob/output/github-contribution-grid-snake.svg" alt="TuyenNedd" />
