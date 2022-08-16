@@ -1,4 +1,6 @@
+<p align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi+there+I'm+TuyenNedd;I'm+a+Front-end+Developer"></p>
 ![Profile View](https://komarev.com/ghpvc/?username=TuyenNedd&style=flat-square) <br/>
+> [![View count](https://visitcount.itsvg.in/api?id=TuyenNedd&color=6&icon=0&pretty=true)](https://visitcount.itsvg.in/api?id=TuyenNedd)<br/>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
