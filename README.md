@@ -1,4 +1,4 @@
-<div><img width="700" align="center" src="https://readme-typing-svg.herokuapp.com?lines=Hi+there+I'm+TuyenNedd;I'm+a+Front-end+Developer"></div> <br/>
+<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="600" align="center" src="https://readme-typing-svg.herokuapp.com?lines=Hi+there+I'm+TuyenNedd;I'm+a+Front-end+Developer"></div> <br/>
 
 <!-- ![Profile View](https://komarev.com/ghpvc/?username=TuyenNedd&style=flat-square) <br/> -->
 
