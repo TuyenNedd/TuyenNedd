@@ -1,6 +1,6 @@
-<p align="center" color="#36BCF7FF"><img align="center" src="https://readme-typing-svg.herokuapp.com?lines=Hi+there+I'm+TuyenNedd;I'm+a+Front-end+Developer"></p> <br/>
+<div align="center"><img align="center" src="https://readme-typing-svg.herokuapp.com?lines=Hi+there+I'm+TuyenNedd;I'm+a+Front-end+Developer"></div> <br/>
 
-![Profile View](https://komarev.com/ghpvc/?username=TuyenNedd&style=flat-square) <br/>
+<!-- ![Profile View](https://komarev.com/ghpvc/?username=TuyenNedd&style=flat-square) <br/> -->
 
 > [![View count](https://visitcount.itsvg.in/api?id=TuyenNedd&color=6&icon=0&pretty=true)](https://visitcount.itsvg.in/api?id=TuyenNedd)<br/>
 
@@ -51,7 +51,7 @@
 <br>
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <br>
-<div align=center>
+<div align="center">
   <a href="#" title="TuyenNedd">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=TuyenNedd&show_icons=true&theme=tokyonight&hide_border=true" />
   </a>
