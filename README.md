@@ -4,7 +4,7 @@
 <div align="center"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="50px"></div>
 <!-- ![Profile View](https://komarev.com/ghpvc/?username=TuyenNedd&style=flat-square) <br/> -->
 
-<h2 align="center">🛠 Technologies and Tools 🛠</h2>
+<h2 align="center">🛠 Technologies and Tools 🛠</h2> 
 <br>
 <!-- https://simpleicons.org/ -->
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
