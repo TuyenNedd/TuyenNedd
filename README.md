@@ -54,7 +54,7 @@
 <br>
 <div align="center">
   <a href="#" title="TuyenNedd">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=TuyenNedd&show_icons=true&theme=tokyonight&hide_border=true" />
+    <img align="center" width="495" src="https://github-readme-stats.vercel.app/api?username=TuyenNedd&show_icons=true&theme=tokyonight&hide_border=true" />
   </a>
   <br/>
   <a href="#" title="TuyenNedd">
