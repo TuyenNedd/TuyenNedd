@@ -62,7 +62,7 @@
   </a> 
   <br/>
   <a href="#" title="TuyenNedd">
-    <img align="center" src="https://github-streak-stats.herokuapp.com/?user=TuyenNedd&&theme=tokyonight&langs_count=8&layout=compact&bg_color=1a1b27&hide_border=true&text_color=38bcad" alt="TuyenNedd" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TuyenNedd&theme=tokyonight&hide_border=false" alt="TuyenNedd" />
   </a>
 </div><br/>
 <img align="center" src="https://github.com/TuyenNedd/TuyenNedd/blob/output/github-contribution-grid-snake.svg" alt="TuyenNedd" />  
