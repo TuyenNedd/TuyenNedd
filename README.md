@@ -1,4 +1,4 @@
-> [![View count](https://visitcount.itsvg.in/api?id=TuyenNedd&color=6&icon=0&pretty=true)](https://visitcount.itsvg.in/api?id=TuyenNedd)<br/>
+[![](https://visitcount.itsvg.in/api?id=TuyenNedd&label=Profile%20Views&icon=5&pretty=true)](https://visitcount.itsvg.in)<br/>
 <!-- > ![Profile View](https://komarev.com/ghpvc/?username=TuyenNedd&style=flat-square) <br/> -->
 
 <div align="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="550" src="https://readme-typing-svg.herokuapp.com?lines=Hi+there+I'm+TuyenNedd;I'm+a+Front-end+Developer"></div>
