@@ -11,7 +11,6 @@
   <br/>
   <img src="https://komarev.com/ghpvc/?username=TuyenNedd&label=Profile%20Views&color=38bcad&style=flat-square" alt="Profile Views" />
 </div>
-[![](https://visitcountpro.netlify.app/api?id=TuyenNedd&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
 <br/>
 
 <!-- ===== ABOUT ME ===== -->
