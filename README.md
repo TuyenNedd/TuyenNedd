@@ -115,8 +115,8 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=TuyenNedd&theme=tokyonight&margin-w=4&margin-h=4&column=7" />
-    <img src="https://github-profile-trophy.vercel.app/?username=TuyenNedd&theme=flat&margin-w=4&margin-h=4&column=7" alt="GitHub Trophies" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=TuyenNedd&theme=tokyo-night&hide_border=true&area=true" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=TuyenNedd&theme=minimal&hide_border=true&area=true" alt="Activity Graph" width="95%" />
   </picture>
 </div>
 
