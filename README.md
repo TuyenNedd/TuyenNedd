@@ -18,10 +18,9 @@
 ## 🧑‍💻 About Me
 
 - 🚀 A **Fullstack Software Developer** with **2+ years of experience** and a strong focus on **Frontend technologies**.
-- 💼 Currently building enterprise-level web applications **@ Pasona Vietnam (Da Nang Branch)**.
+- 💼 Currently building **enterprise-level web applications**.
 - 🎯 Passionate about crafting **scalable web apps** with rich, interactive UIs while building robust backend services.
 - 🤖 Exploring **AI-assisted & Agentic workflows** (Claude Code, Cursor, Kiro, MCP, ...).
-- 📍 Based in **Da Nang, Vietnam**.
 - 📫 Reach me at **trituyen2003@gmail.com**
 
 <br/>
@@ -97,16 +96,28 @@
 ## 🔥 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TuyenNedd&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuyenNedd&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=TuyenNedd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TuyenNedd&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=TuyenNedd&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuyenNedd&layout=compact&langs_count=8&theme=default&hide_border=true" alt="Top Languages" />
+  </picture>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TuyenNedd&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=TuyenNedd&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=TuyenNedd&theme=default&hide_border=true" alt="GitHub Streak" />
+  </picture>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TuyenNedd&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=TuyenNedd&theme=tokyonight&margin-w=4&margin-h=4&column=7" />
+    <img src="https://github-profile-trophy.vercel.app/?username=TuyenNedd&theme=flat&margin-w=4&margin-h=4&column=7" alt="GitHub Trophies" />
+  </picture>
 </div>
 
 <br/>
