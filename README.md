@@ -97,12 +97,23 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=TuyenNedd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TuyenNedd&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TuyenNedd&theme=tokyonight" />
+    <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TuyenNedd&theme=default" alt="GitHub Stats" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=TuyenNedd&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuyenNedd&layout=compact&langs_count=8&theme=default&hide_border=true" alt="Top Languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TuyenNedd&theme=tokyonight" />
+    <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TuyenNedd&theme=default" alt="Top Languages" />
+  </picture>
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TuyenNedd&theme=tokyonight" />
+    <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TuyenNedd&theme=default" alt="Most Commit Language" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TuyenNedd&theme=tokyonight&utcOffset=7" />
+    <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TuyenNedd&theme=default&utcOffset=7" alt="Productive Time" />
   </picture>
 </div>
 
